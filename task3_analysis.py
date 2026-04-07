@@ -79,3 +79,4 @@ df.to_csv(output_file, index=False)
 print(f"\nSaved to {output_file}")
 
 data/trends_analysed.csv
+
